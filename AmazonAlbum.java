@@ -26,4 +26,9 @@ public class AmazonAlbum {
     public int getNumberOfSongs() {
         return numberOfSongs;
     }
+
+    public String someMethodForTest() {
+        return 0;
+    }
+
 }
