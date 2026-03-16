@@ -1,0 +1,179 @@
+,Tokens,Annotator1,Labels-Annotator1,Actor-Annotator1,Association-Annotator1,Annotator2,Labels-Annotator2,Actor-Annotator2,Association-Annotator2
+0,This,O,O,O,O,O,O,O,O
+1,is,O,O,O,O,O,O,O,O
+2,my,O,O,O,O,O,O,O,O
+3,settings,O,O,O,O,O,O,O,O
+4,screen,O,O,O,O,O,O,O,O
+5,",",O,O,O,O,O,O,O,O
+6,so,O,O,O,O,O,O,O,O
+7,I,O,O,O,O,O,O,O,O
+8,use,O,O,O,O,O,O,O,O
+9,it,O,O,O,O,O,O,O,O
+10,to,O,O,O,O,O,O,O,O
+11,modify,"[{'info': 'modify-1', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['modify-11']],"[{'info': 'modify-1', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['modify-11']]
+12,downloads,"[{'info': 'modify-1', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-11']],"[{'info': 'modify-1', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-11']]
+13,and,O,O,O,O,O,O,O,O
+14,I,O,O,O,O,O,O,O,O
+15,can,O,O,O,O,O,O,O,O
+16,change,"[{'info': 'change-2', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['change-16']],"[{'info': 'change-2', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['change-16']]
+17,sound,"[{'info': 'change-2', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['change-16']],"[{'info': 'change-2', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['change-16']]
+18,quality,"[{'info': 'change-2', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['change-16']],"[{'info': 'change-2', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['change-16']]
+19,for,O,O,O,O,O,O,O,O
+20,the,O,O,O,O,O,O,O,O
+21,audio,O,O,O,O,O,O,O,O
+22,tracks,O,O,O,O,O,O,O,O
+23,.,O,O,O,O,O,O,O,O
+24,I,O,O,O,O,O,O,O,O
+25,can,O,O,O,O,O,O,O,O
+26,also,O,O,O,O,O,O,O,O
+27,modify,"[{'info': 'modify-3', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['modify-27']]
+28,how,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+29,much,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+30,storage,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+31,the,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+32,app,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+33,uses,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+34,on,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+35,my,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+36,phone,"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']],"[{'info': 'modify-3', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['modify-27']]
+37,",",O,O,O,O,O,O,O,O
+38,which,O,O,O,O,O,O,O,O
+39,is,O,O,O,O,O,O,O,O
+40,helpful,O,O,O,O,O,O,O,O
+41,.,O,O,O,O,O,O,O,O
+42,I,O,O,O,O,O,O,O,O
+43,can,O,O,O,O,O,O,O,O
+44,monitor,"[{'info': 'monitor-4', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['monitor-44']],"[{'info': 'monitor-4', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['monitor-44']]
+45,certain,O,O,O,O,O,O,O,O
+46,account,"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']],"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']]
+47,information,"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']],"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']]
+48,such,O,O,O,O,O,O,O,O
+49,as,O,O,O,O,O,O,O,O
+50,my,O,O,O,O,O,O,O,O
+51,e-mail,"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']],"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']]
+52,and,O,O,O,O,O,O,O,O
+53,my,O,O,O,O,O,O,O,O
+54,name,"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']],"[{'info': 'monitor-4', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['monitor-44']]
+55,",",O,O,O,O,O,O,O,O
+56,but,O,O,O,O,O,O,O,O
+57,I,O,O,O,O,O,O,O,O
+58,ca,O,O,O,O,O,O,O,O
+59,n't,O,O,O,O,O,O,O,O
+60,do,O,O,O,O,O,O,O,O
+61,much,O,O,O,O,O,O,O,O
+62,through,O,O,O,O,O,O,O,O
+63,the,O,O,O,O,O,O,O,O
+64,app,O,O,O,O,O,O,O,O
+65,as,O,O,O,O,O,O,O,O
+66,it,O,O,O,O,O,O,O,O
+67,pertains,O,O,O,O,O,O,O,O
+68,to,O,O,O,O,O,O,O,O
+69,account,O,O,O,O,O,O,O,O
+70,information,O,O,O,O,O,O,O,O
+71,.,O,O,O,O,O,O,O,O
+72,I,O,O,O,O,O,O,O,O
+73,can,O,O,O,O,O,O,O,O
+74,view,"[{'info': 'view-5', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['view-74']],"[{'info': 'view-5', 'subject': 'User', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['User'],[['view-74']]
+75,what,O,O,O,O,O,O,O,O
+76,current,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['view-74']]
+77,plan,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['view-74']]
+78,that,O,O,O,O,O,O,O,O
+79,I,O,O,O,O,O,O,O,O
+80,am,O,O,O,O,O,O,O,O
+81,using,O,O,O,O,O,O,O,O
+82,on,O,O,O,O,O,O,O,O
+83,the,O,O,O,O,O,O,O,O
+84,service,O,O,O,O,O,O,O,O
+85,as,O,O,O,O,O,O,O,O
+86,a,O,O,O,O,O,O,O,O
+87,way,O,O,O,O,O,O,O,O
+88,to,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+89,verify,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+90,that,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+91,I,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+92,am,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+93,actually,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+94,on,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+95,the,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+96,plan,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+97,that,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+98,I,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+99,want,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+100,to,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+101,use,"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']],"[{'info': 'view-5', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],[['view-74']]
+102,",",O,O,O,O,O,O,O,O
+103,but,O,O,O,O,O,O,O,O
+104,it,O,O,O,O,O,O,O,O
+105,ca,O,O,O,O,O,O,O,O
+106,n't,O,O,O,O,O,O,O,O
+107,be,O,O,O,O,O,O,O,O
+108,changed,O,O,O,O,O,O,O,O
+109,from,O,O,O,O,O,O,O,O
+110,this,O,O,O,O,O,O,O,O
+111,screen,O,O,O,O,O,O,O,O
+112,or,O,O,O,O,O,O,O,O
+113,in,O,O,O,O,O,O,O,O
+114,the,O,O,O,O,O,O,O,O
+115,app,O,O,O,O,O,O,O,O
+116,itself,O,O,O,O,O,O,O,O
+117,.,O,O,O,O,O,O,O,O
+118,I,O,O,O,O,O,O,O,O
+119,mostly,O,O,O,O,O,O,O,O
+120,just,O,O,O,O,O,O,O,O
+121,use,O,O,O,O,O,O,O,O
+122,this,O,O,O,O,O,O,O,O
+123,screen,O,O,O,O,O,O,O,O
+124,to,O,O,O,O,O,O,O,O
+125,modify,"[{'info': 'modify-6', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['modify-125']],"[{'info': 'modify-6', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['modify-125']]
+126,my,O,O,O,O,O,O,O,O
+127,listening,"[{'info': 'improve-7', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}, {'info': 'modify-6', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]","['InfoType', 'InfoType']","['O', 'O']","[['improve-130'], ['modify-125']]","[{'info': 'improve-7', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}, {'info': 'modify-6', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]","['InfoType', 'InfoType']","['O', 'O']","[['improve-130'], ['modify-125']]"
+128,experience,"[{'info': 'improve-7', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}, {'info': 'modify-6', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]","['InfoType', 'InfoType']","['O', 'O']","[['improve-130'], ['modify-125']]","[{'info': 'improve-7', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}, {'info': 'modify-6', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]","['InfoType', 'InfoType']","['O', 'O']","[['improve-130'], ['modify-125']]"
+129,and,O,O,O,O,O,O,O,O
+130,improve,"[{'info': 'improve-7', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['improve-130']],"[{'info': 'improve-7', 'subject': 'User', 'attribute': 'Verb', 'label': 'Goal'}]",['Verb'],['User'],[['improve-130']]
+131,it,O,O,O,O,O,O,O,O
+132,whenever,O,O,O,O,O,O,O,O
+133,I,O,O,O,O,O,O,O,O
+134,want,O,O,O,O,O,O,O,O
+135,.,O,O,O,O,O,O,O,O
+136,If,O,O,O,O,O,O,O,O
+137,I,O,O,O,O,O,O,O,O
+138,had,O,O,O,O,O,O,O,O
+139,privacy,O,O,O,O,O,O,O,O
+140,concerns,O,O,O,O,O,O,O,O
+141,",",O,O,O,O,O,O,O,O
+142,I,O,O,O,O,O,O,O,O
+143,could,O,O,O,O,O,O,O,O
+144,switch,"[{'info': 'switch to-8', 'subject': 'User', 'attribute': 'Verb', 'label': 'Step'}]",['Verb'],['User'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'App', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['App'],"[['switch-144', 'to-145']]"
+145,to,"[{'info': 'switch to-8', 'subject': 'User', 'attribute': 'Verb', 'label': 'Step'}]",['Verb'],['User'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'App', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['App'],"[['switch-144', 'to-145']]"
+146,offline,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]"
+147,only,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]"
+148,mode,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'UIComponent', 'label': ''}]",['UIComponent'],['O'],"[['switch-144', 'to-145']]"
+149,so,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+150,the,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+151,app,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+152,is,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+153,n't,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+154,connected,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+155,to,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+156,the,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+157,internet,"[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]","[{'info': 'switch to-8', 'subject': 'None', 'attribute': 'GoalArgument', 'label': ''}]",['GoalArgument'],['O'],"[['switch-144', 'to-145']]"
+158,.,O,O,O,O,O,O,O,O
+159,Overall,O,O,O,O,O,O,O,O
+160,",",O,O,O,O,O,O,O,O
+161,I,O,O,O,O,O,O,O,O
+162,think,O,O,O,O,O,O,O,O
+163,the,O,O,O,O,O,O,O,O
+164,app,O,O,O,O,O,O,O,O
+165,only,O,O,O,O,O,O,O,O
+166,collects,"[{'info': 'collects-9', 'subject': 'App', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['App'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'App', 'attribute': 'Verb', 'label': 'DataPractice'}]",['Verb'],['App'],[['collects-166']]
+167,information,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+168,that,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+169,is,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+170,crucial,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+171,to,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+172,the,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+173,function,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+174,of,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+175,the,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+176,app,"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']],"[{'info': 'collects-9', 'subject': 'None', 'attribute': 'InfoType', 'label': ''}]",['InfoType'],['O'],[['collects-166']]
+177,.,O,O,O,O,O,O,O,O
